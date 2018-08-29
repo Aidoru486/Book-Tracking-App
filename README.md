@@ -1,12 +1,3 @@
-# MyReads (iBookshelf)
-
-This is my entry for project 7 (*MyReads: A Book Lending App*) from Udacity's  [Front-End Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) program.
-Find starter code and more information [HERE
-](https://github.com/udacity/reactnd-project-myreads-starter)
-
-[![MyReads (iBookshelf)](public/demo.jpg "iBookshelf")](https://amr-adel.github.io/fend-p7-myreads/)
-
----
 
 
 ## Project Specification Criteria
@@ -45,28 +36,20 @@ Find starter code and more information [HERE
 
 ---
 
-
-### To see it in action
-
-#### Visit live demo
-At [iBookshelf](https://amr-adel.github.io/fend-p7-myreads/)
-
----
-
 #### Clone repository
 via `HTTPS` 
 ```
-https://github.com/amr-adel/fend-p7-myreads.git
+https://github.com/Aidoru486/Book-Tracking-App.git
 ```
 Or via `SSH` 
 ```
-git@github.com:amr-adel/fend-p7-myreads.git
+git@github.com:Aidoru486/Book-Tracking-App.git
 ```
 
 ---
 
 #### Or download repository
-As a ZIP archive [MyReads: A Book Lending App](https://github.com/amr-adel/fend-p7-myreads/archive/master.zip)
+As a ZIP archive [MyReads: A Book Lending App](https://github.com/Aidoru486/Book-Tracking-App/archive/master.zip)
 
 1- install all project dependencies with `npm install`.
 
